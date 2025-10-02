@@ -12,7 +12,7 @@ It helps you log income & expenses, visualize financial trends, and receive **AI
 
 ## ✨ Features
 - 🔐 **Password-protected login** (bcrypt hashed)  
-- ☁️ **Google Sheets as backend** (yearly tabs like `expense-2024`, `expense-2025`)  
+- ☁️ **Google Sheets as backend** (yearly tabs like `test-2024`, `test-2025`)  
 - 📊 **Visual Insights**: Weekly, Monthly & Yearly summaries with charts and tables  
 - 🧠 **AI-powered Storytelling & Financial Health Score**  
   - Explains your top spending patterns in **plain English**  
