@@ -1,0 +1,12 @@
+﻿datetime
+google-auth
+gspread
+numpy
+oauth2client
+pandas
+streamlit
+matplotlib
+bcrypt
+plotly
+altair
+streamlit-option-menu
